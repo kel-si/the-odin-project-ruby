@@ -15,7 +15,8 @@ end
 
 def capitalize(word)
   # capitalize the first letter of the word
-  word[0].upcase + word[1..-1]
+  # word[0].upcase + word[1..-1]
+  word.capitalize
 end
 
 def uppercase(string)
