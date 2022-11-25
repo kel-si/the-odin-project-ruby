@@ -36,7 +36,7 @@ These exercises are designed to complement the [Ruby Basic lessons](https://www.
 
 #### 9.Debugging
 
-- [ ] Debugging Exercises
+- ✅ Debugging Exercises
 
 #### 10.Basic Enumerables
 
